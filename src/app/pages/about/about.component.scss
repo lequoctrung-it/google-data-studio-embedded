@@ -1,0 +1,23 @@
+table {
+  text-align: center !important;
+  width: 70%;
+}
+
+.table-container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  div {
+    margin: 70px;
+    font-size: 3.5rem;
+    color: #673ab7;
+  }
+}
+
+.mat-header-cell {
+  text-align: center;
+  font-size: 1rem;
+}
